@@ -17,8 +17,5 @@ public class KlasaString {
     public static void main(String[] args){
         KlasaString aklasaString = new KlasaString();
         aklasaString.setaName();
-
-
-
     }
 }
